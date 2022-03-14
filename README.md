@@ -1,2 +1,2 @@
 # Food-Delivery-Services-Website
-Simple food delivery website using HTML and CSS
+Simple food delivery services website using HTML and CSS
